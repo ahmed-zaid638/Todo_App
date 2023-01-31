@@ -1,2 +1,5 @@
 # Todo App
-### Demo : https://ahmed-zaid638.github.io/Todo_App/
+## Demo : https://ahmed-zaid638.github.io/Todo_App/
+## Technologies / Tools
+- React / Hooks
+- React-redux / ReduxToolkit
